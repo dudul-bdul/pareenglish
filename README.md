@@ -1,6 +1,6 @@
-# Cool11ty New modern eleventy blog
 
-Read Documentation : [https://www.hockeycomputindo.com/2022/06/new-eleventy-11ty-web-modern-template.html](https://www.hockeycomputindo.com/2022/06/new-eleventy-11ty-web-modern-template.html)
+
+
 
 Run demo [https://statisweb.pages.dev/](https://statisweb.pages.dev/)
 
@@ -16,7 +16,7 @@ Home Page
 
 List Article
 
-![free download new eleventy web template](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4uagNhDe1BDMmAXEZBwp2x-LAMspGw20dodaMbEkiHuPQnomwHwwvYFEYpCqKOpDT2ZplVDBjxOvBgcGyQGcnz19ZRkTs5JCRFFGB7ehjdQVUu5Wz1aW9BRAZIbGfc1yHb1hAz1t1XNQ_NuZ39LgX2RTH2nN09xz2dcj9Vza21gh4SPschwp1vGkacQ/s1349/new%20elventy%2011ty%20modern%20web%20static%20site%20geenerator%20free%20download%20gratis%20souce%20code%20(3).png>)
+![free download new eleventy web template](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4uagNhDe1BDMmAXEZBwp2x-LAMspGw20dodaMbEkiHuPQnomwHwwvYFEYpCqKOpDT2ZplVDBjxOvBgcGyQGcnz19ZRkTs5JCRFFGB7ehjdQVUu5Wz1aW9BRAZIbGfc1yHb1hAz1t1XNQ_NuZ39LgX2RTH2nN09xz2dcj9Vza21gh4SPschwp1vGkacQ/s13w%20elventy%2011ty%20modern%20web%20static%20site%20geenerator%20free%20download%20gratis%20souce%20code%20(3).png>)
 
 Article Page
 
